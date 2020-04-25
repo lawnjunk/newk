@@ -1,0 +1,19 @@
+{
+  "name": "newk",
+  "version": "0.1.0",
+  "description": "chat app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slugbyte/newk.git"
+  },
+  "author": "duncan@slugbyte.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slugbyte/newk/issues"
+  },
+  "homepage": "https://github.com/slugbyte/newk#readme"
+}
