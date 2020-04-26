@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/slugbyte/newk/issues"
   },
-  "homepage": "https://github.com/slugbyte/newk#readme"
+  "homepage": "https://github.com/slugbyte/newk#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
 }
